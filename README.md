@@ -115,8 +115,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 6. Then type in the terminal:
 `git push -u origin master`
 
-> If this doesn't work then run 
-`git remote add origin <URL>`
+> If this doesn't work then run \
+`git remote add origin <URL>` \
 `git push origin master`
 7. Refresh teh github page to see the files that have been added to GitHub. It should be there.
 8. In Github go to Settings > GitHub Pages 
